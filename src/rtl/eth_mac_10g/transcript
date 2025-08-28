@@ -1,0 +1,9 @@
+# vsim -c work.eth_mac_10g 
+# Start time: 13:35:13 on Aug 10,2025
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Error: eth_mac_10g.v(209): Module 'axis_xgmii_rx_64' is not defined.
+# ** Error: eth_mac_10g.v(244): Module 'axis_xgmii_tx_64' is not defined.
+# Optimization failed
+# Error loading design
+# End time: 13:35:13 on Aug 10,2025, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 0
